@@ -1,2 +1,2 @@
-# Fishiing
+# Fishing
 Canva Fishing Game
